@@ -1,0 +1,118 @@
+.container {
+    max-width: 400px;
+    margin: 5vh auto 0 auto;
+    padding: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5),
+    0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5),
+    0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+body {
+    background: #e1e1e1;
+    min-width: 100px;
+}
+
+.criptodev {
+    text-align: center;
+    padding: 2px;
+    margin-top: 1rem;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.page-title {
+    color: #0a0000;
+    margin: 5px;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.page-logo:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
+
+#display {
+    text-align: right;
+    background: linear-gradient(141deg, #faf602 0%, #db8505 51%, #df6e04 75%);
+    font-size: 32px;
+    height: 80px;
+    width: 100%;
+    padding: 12px;
+    color: white;
+    font-family: "Roboto Condensed", sans-serif;
+    
+}
+
+.buttons {
+    background: #434b55;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 12px;
+    border: 0;
+    color: #fcfcfd;
+    min-width: 12px;
+    min-height: 12px;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+}
+
+.buttons > div {
+    border-top: 1px solid #999;
+    border-right: 1px solid#999;
+}
+
+.button {
+    border: 0.5px solid #999;
+    line-height: 90px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+}
+
+#equal {
+    background-color: rgb(24, 23, 22);
+    color: white;
+}
+
+.button:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    background: #db8505;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.button:active {
+    transform: scale(1.1);
+}
+
+.footerlogo{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.tm-social{
+    width: 50px;
+    height: 50px;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.tm-social:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
