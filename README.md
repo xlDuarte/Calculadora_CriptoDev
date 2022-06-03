@@ -22,5 +22,8 @@ Esse projeto foi construído utilizando-se as seguintes linguagens:
 **📖 Cálculadora funcional por click e pelo teclado**
 
 **🎨 Design personalizado**
-
+<div align="center">
+  
 ### Obrigado!
+  
+</div>
