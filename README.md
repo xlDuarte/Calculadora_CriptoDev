@@ -1,12 +1,12 @@
 ## Calculadora feita em HTML, CSS e Javascript
 
 <div align="center">
-  <img alt="criptodev" src="./images/criptodev.jpg" />
+  <img alt="sitesignos" src="https://i.imgur.com/hjqZm0e.jpg" />
 </div>
 
 <br/>
 
-Se trata de um projeto de uma calculadora feita para a 1ª Fase do Bootcamp CriptoDev da GamaAcademy.
+Se trata de um projeto de um site de descobrir signo pela data de nascimento usando .xml para o fórum da faculdade.
 
 ## Built With
 
@@ -14,12 +14,12 @@ Esse projeto foi construído utilizando-se as seguintes linguagens:
 
 - HTML
 - CSS3
-- Javascript
-- VsCode
+- PHP
+- XML
 
 ## Funções
 
-**📖 Cálculadora funcional por click e pelo teclado**
+**📖 Função de descobrir o signo**
 
 **🎨 Design personalizado**
 <div align="center">
